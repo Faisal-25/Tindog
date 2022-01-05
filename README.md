@@ -1,2 +1,1 @@
-# Tindog
-A Funny static clone of tinder
+TinDog Starting Files
